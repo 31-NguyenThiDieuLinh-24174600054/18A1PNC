@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Companies>
+  <Company id="C001">
+    <CompanyName>Công ty TNHH ABC</CompanyName>
+    <Director>
+      <Name>Nguyễn Văn A</Name>
+      <Position>Giám đốc</Position>
+    </Director>
+    <Contact>
+      <Address>Số 5, đường Trương Định , Phường Trương Định, TP.HN</Address>
+      <Phone>+84-28-1234-5678</Phone>
+      <Email>info@abc.com</Email>
+    </Contact>
+    <Tax>
+      <TaxID>0101234567</TaxID>
+      <TaxOffice>Chi cục Thuế Phường Trương Định</TaxOffice>
+    </Tax>
+    <Notes>Ngành nghề: sản xuất đồ gốm sứ</Notes>
+  </Company>
+</Companies>
